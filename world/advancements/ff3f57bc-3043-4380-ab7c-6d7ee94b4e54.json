@@ -1,0 +1,40 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2021-09-13 23:59:14 -0400"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2021-09-13 23:59:14 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2021-09-13 23:59:14 -0400"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2021-09-13 23:59:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2021-09-13 23:59:54 -0400",
+      "minecraft:taiga_hills": "2021-09-13 23:59:14 -0400"
+    },
+    "done": false
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2021-09-13 23:59:37 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

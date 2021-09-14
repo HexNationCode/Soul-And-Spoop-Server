@@ -1,0 +1,698 @@
+[14Sep2021 00:23:45.166] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.4, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[14Sep2021 00:23:45.169] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 11.0.12 by Oracle Corporation
+[14Sep2021 00:23:45.492] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[14Sep2021 00:23:45.537] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/wreck/Desktop/Minecraft%20Servers/SMS%20Modpack/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
+[14Sep2021 00:23:46.615] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.690] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.694] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.700] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.704] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.707] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.710] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.715] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.718] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.722] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.725] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.729] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.735] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.739] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.741] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.746] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.751] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.753] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.757] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.759] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.761] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.766] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.768] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.771] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.773] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.775] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.778] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.782] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.785] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.787] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Sep2021 00:23:46.838] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[14Sep2021 00:23:47.910] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[14Sep2021 00:23:47.912] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[14Sep2021 00:23:47.921] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[14Sep2021 00:23:48.000] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'set_player_field' ASM patch...
+[14Sep2021 00:23:48.084] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'set_player_field' ASM patch!
+[14Sep2021 00:23:48.092] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'water_movement_slowdown_prevention' ASM patch...
+[14Sep2021 00:23:48.115] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'water_movement_slowdown_prevention' ASM patch!
+[14Sep2021 00:23:48.149] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_custom_entity_collision' ASM patch...
+[14Sep2021 00:23:48.196] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_custom_entity_collision' ASM patch!
+[14Sep2021 00:23:48.291] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_custom_entity_collision' ASM patch...
+[14Sep2021 00:23:48.296] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_custom_entity_collision' ASM patch!
+[14Sep2021 00:23:48.321] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_missing_tag_enchantment_tooltip' ASM patch...
+[14Sep2021 00:23:48.401] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_missing_tag_enchantment_tooltip' ASM patch!
+[14Sep2021 00:23:48.408] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_tooltip' ASM patch...
+[14Sep2021 00:23:48.445] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_tooltip' ASM patch!
+[14Sep2021 00:23:48.577] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[14Sep2021 00:23:48.624] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[14Sep2021 00:23:48.633] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'allow_entity_interaction' ASM patch...
+[14Sep2021 00:23:48.681] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'allow_entity_interaction' ASM patch!
+[14Sep2021 00:23:48.698] [main/WARN] [mixin/]: Error loading class: top/theillusivec4/culinaryconstruct/common/item/CulinaryItemBase (java.lang.ClassNotFoundException: null)
+[14Sep2021 00:23:48.698] [main/WARN] [mixin/]: @Mixin target top.theillusivec4.culinaryconstruct.common.item.CulinaryItemBase was not found origins.forge.mixins.json:compat.cconstruct.CulinaryItemBaseMixin
+[14Sep2021 00:23:48.699] [main/WARN] [mixin/]: Error loading class: org/jwaresoftware/mcmods/vfp/common/VfpPantryItem (java.lang.ClassNotFoundException: null)
+[14Sep2021 00:23:48.699] [main/WARN] [mixin/]: @Mixin target org.jwaresoftware.mcmods.vfp.common.VfpPantryItem was not found origins.forge.mixins.json:compat.vfp.VfpPantryItemMixin
+[14Sep2021 00:23:48.850] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/entity/player/ClientPlayerEntity for invalid dist DEDICATED_SERVER
+[14Sep2021 00:23:48.850] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/entity/player/ClientPlayerEntity (java.lang.RuntimeException: Attempted to load class net/minecraft/client/entity/player/ClientPlayerEntity for invalid dist DEDICATED_SERVER)
+[14Sep2021 00:23:48.851] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.entity.player.ClientPlayerEntity was not found ars_nouveau.mixins.json:ClientElytraMixin
+[14Sep2021 00:23:49.702] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[14Sep2021 00:23:49.748] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[14Sep2021 00:23:49.754] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'sun_brightness_server' ASM patch...
+[14Sep2021 00:23:49.776] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'sun_brightness_server' ASM patch!
+[14Sep2021 00:23:50.256] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_custom_entity_collision' ASM patch...
+[14Sep2021 00:23:50.257] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_custom_entity_collision' ASM patch!
+[14Sep2021 00:23:50.360] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'set_player_field' ASM patch...
+[14Sep2021 00:23:50.362] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'set_player_field' ASM patch!
+[14Sep2021 00:23:50.363] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'water_movement_slowdown_prevention' ASM patch...
+[14Sep2021 00:23:50.365] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'water_movement_slowdown_prevention' ASM patch!
+[14Sep2021 00:23:50.413] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'post_process_vanilla' ASM patch...
+[14Sep2021 00:23:50.437] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'post_process_vanilla' ASM patch!
+[14Sep2021 00:23:50.519] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[14Sep2021 00:23:50.522] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[14Sep2021 00:23:50.522] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'sun_brightness_server' ASM patch...
+[14Sep2021 00:23:50.525] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'sun_brightness_server' ASM patch!
+[14Sep2021 00:23:50.660] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_helper_levels' ASM patch...
+[14Sep2021 00:23:50.682] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_helper_levels' ASM patch!
+[14Sep2021 00:23:50.687] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_helper_enchantments' ASM patch...
+[14Sep2021 00:23:50.704] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_helper_enchantments' ASM patch!
+[14Sep2021 00:23:50.709] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_helper_apply_modifier' ASM patch...
+[14Sep2021 00:23:50.739] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_helper_apply_modifier' ASM patch!
+[14Sep2021 00:23:53.096] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_missing_tag_enchantment_tooltip' ASM patch...
+[14Sep2021 00:23:53.106] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_missing_tag_enchantment_tooltip' ASM patch!
+[14Sep2021 00:23:53.106] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_tooltip' ASM patch...
+[14Sep2021 00:23:53.109] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_tooltip' ASM patch!
+[14Sep2021 00:23:56.041] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:23:56.045] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:23:56.045] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:23:56.045] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:23:57.475] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[14Sep2021 00:23:57.502] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
+[14Sep2021 00:23:57.502] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[14Sep2021 00:23:57.779] [modloading-worker-13/INFO] [PluginManager/]: Scanning classes for industrialforegoing
+[14Sep2021 00:23:57.804] [modloading-worker-13/INFO] [PluginManager/]: Found FeaturePluginInstance for class ImmersiveEngineeringPlugin for plugin immersiveengineering
+[14Sep2021 00:23:57.815] [modloading-worker-13/INFO] [PluginManager/]: Found FeaturePluginInstance for class FTBChunksPlugin for plugin ftbchunks
+[14Sep2021 00:23:57.817] [modloading-worker-13/INFO] [PluginManager/]: Found FeaturePluginInstance for class AstralSorceryPlugin for plugin astralsorcery
+[14Sep2021 00:23:57.817] [modloading-worker-13/INFO] [PluginManager/]: Found FeaturePluginInstance for class CuriosPlugin for plugin curios
+[14Sep2021 00:23:57.883] [modloading-worker-13/INFO] [PluginManager/]: Constructed class ImmersiveEngineeringPlugin for plugin immersiveengineering for mod industrialforegoing
+[14Sep2021 00:23:57.890] [modloading-worker-13/INFO] [PluginManager/]: Constructed class FTBChunksPlugin for plugin ftbchunks for mod industrialforegoing
+[14Sep2021 00:23:57.893] [modloading-worker-13/INFO] [PluginManager/]: Constructed class AstralSorceryPlugin for plugin astralsorcery for mod industrialforegoing
+[14Sep2021 00:23:57.893] [modloading-worker-13/INFO] [PluginManager/]: Constructed class CuriosPlugin for plugin curios for mod industrialforegoing
+[14Sep2021 00:23:57.925] [modloading-worker-13/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class ImmersiveEngineeringPlugin
+[14Sep2021 00:23:58.156] [modloading-worker-13/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class FTBChunksPlugin
+[14Sep2021 00:23:58.169] [modloading-worker-13/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class AstralSorceryPlugin
+[14Sep2021 00:23:58.174] [modloading-worker-13/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class CuriosPlugin
+[14Sep2021 00:23:58.202] [modloading-worker-13/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class ImmersiveEngineeringPlugin
+[14Sep2021 00:23:58.210] [modloading-worker-13/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class FTBChunksPlugin
+[14Sep2021 00:23:58.213] [modloading-worker-13/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class AstralSorceryPlugin
+[14Sep2021 00:23:58.213] [modloading-worker-13/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class CuriosPlugin
+[14Sep2021 00:23:58.220] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_condition' ASM patch...
+[14Sep2021 00:23:58.444] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_condition' ASM patch!
+[14Sep2021 00:23:58.653] [modloading-worker-1/INFO] [io.github.apace100.origins.Origins/]: Origins 0.7.3.9 is initializing. Have fun!
+[14Sep2021 00:23:58.977] [modloading-worker-11/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 1 RS API injection point
+[14Sep2021 00:23:58.991] [modloading-worker-11/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in org.cyclops.integrateddynamicscompat.modcompat.refinedstorage.aspect.RefinedStorageAspects RS
+[14Sep2021 00:23:59.191] [modloading-worker-8/INFO] [twilightforest/]: Loaded compatibility for mod immersiveengineering.
+[14Sep2021 00:23:59.465] [modloading-worker-6/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'cooldown_tracker_set' ASM patch...
+[14Sep2021 00:23:59.688] [modloading-worker-6/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'cooldown_tracker_set' ASM patch!
+[14Sep2021 00:23:59.825] [modloading-worker-2/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'post_process_vanilla' ASM patch...
+[14Sep2021 00:23:59.874] [modloading-worker-2/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'post_process_vanilla' ASM patch!
+[14Sep2021 00:23:59.887] [modloading-worker-10/INFO] [net.bdew.lib.network.NetChannel/]: Initialized network channel 'multiblock' for mod 'bdlib'
+[14Sep2021 00:24:00.033] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.4, for MC 1.16.5 with MCP 20210115.111550
+[14Sep2021 00:24:00.067] [modloading-worker-2/INFO] [brandonscore/]: Knock Knock...
+[14Sep2021 00:24:00.106] [modloading-worker-2/WARN] [draconicevolution/]: Reactor detonation initiated.
+[14Sep2021 00:24:00.121] [modloading-worker-2/INFO] [brandonscore/]: Wait... NO! What?
+[14Sep2021 00:24:00.103] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.4 Initialized
+[14Sep2021 00:24:00.139] [modloading-worker-2/INFO] [brandonscore/]: Stop That! That's not how this works!
+[14Sep2021 00:24:00.171] [modloading-worker-2/WARN] [draconicevolution/]: Calculating explosion ETA
+[14Sep2021 00:24:00.158] [modloading-worker-13/INFO] [PluginManager/]: Executing phase INIT for plugin class ImmersiveEngineeringPlugin
+[14Sep2021 00:24:00.194] [modloading-worker-2/INFO] [brandonscore/]: Ahh... NO... NONONO! DONT DO THAT!!! STOP THIS NOW!
+[14Sep2021 00:24:00.205] [modloading-worker-13/INFO] [PluginManager/]: Executing phase INIT for plugin class FTBChunksPlugin
+[14Sep2021 00:24:00.210] [modloading-worker-2/WARN] [draconicevolution/]: **Explosion Imminent!!!**
+[14Sep2021 00:24:00.276] [modloading-worker-2/INFO] [brandonscore/]: Well...... fork...
+[14Sep2021 00:24:00.242] [modloading-worker-10/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[14Sep2021 00:24:00.240] [modloading-worker-13/INFO] [PluginManager/]: Executing phase INIT for plugin class AstralSorceryPlugin
+[14Sep2021 00:24:00.449] [modloading-worker-10/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[14Sep2021 00:24:00.479] [modloading-worker-13/INFO] [PluginManager/]: Executing phase INIT for plugin class CuriosPlugin
+[14Sep2021 00:24:00.498] [modloading-worker-10/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'allow_entity_interaction' ASM patch...
+[14Sep2021 00:24:00.552] [modloading-worker-10/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'allow_entity_interaction' ASM patch!
+[14Sep2021 00:24:00.641] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:t_corridor
+[14Sep2021 00:24:00.700] [modloading-worker-6/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_player_field' ASM patch...
+[14Sep2021 00:24:00.743] [modloading-worker-13/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class ImmersiveEngineeringPlugin
+[14Sep2021 00:24:00.755] [modloading-worker-13/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class FTBChunksPlugin
+[14Sep2021 00:24:00.755] [modloading-worker-13/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class AstralSorceryPlugin
+[14Sep2021 00:24:00.756] [modloading-worker-13/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class CuriosPlugin
+[14Sep2021 00:24:00.736] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@140a52e
+[14Sep2021 00:24:00.763] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:four_way_corridor_loot
+[14Sep2021 00:24:00.732] [modloading-worker-12/INFO] [STDOUT/]: [cofh.core.init.CoreConfig:genClientConfig:110]: Client config gen
+[14Sep2021 00:24:00.828] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@a325a4f
+[14Sep2021 00:24:00.836] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:four_way_corridor
+[14Sep2021 00:24:00.863] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@d36ea8e
+[14Sep2021 00:24:00.873] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:ore_hold_1
+[14Sep2021 00:24:00.879] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@1c6ec8fd
+[14Sep2021 00:24:00.886] [modloading-worker-6/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_player_field' ASM patch!
+[14Sep2021 00:24:00.886] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:straight_corridor
+[14Sep2021 00:24:00.907] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@66f570ef
+[14Sep2021 00:24:00.928] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:spiral_staircase
+[14Sep2021 00:24:00.955] [modloading-worker-15/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[14Sep2021 00:24:00.969] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@6cba9a88
+[14Sep2021 00:24:01.016] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:t3_entrance
+[14Sep2021 00:24:01.041] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@6382885a
+[14Sep2021 00:24:01.042] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:mini_dungeon/library
+[14Sep2021 00:24:01.051] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@503f913d
+[14Sep2021 00:24:01.065] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:mini_dungeon/armoury
+[14Sep2021 00:24:01.103] [modloading-worker-15/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[14Sep2021 00:24:01.106] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@fa139f6
+[14Sep2021 00:24:01.133] [modloading-worker-8/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:223]: # schematics: 9
+[14Sep2021 00:24:01.184] [modloading-worker-15/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Disabled because not running on the client.
+[14Sep2021 00:24:01.192] [modloading-worker-15/INFO] [PluginManager/]: Scanning classes for titanium
+[14Sep2021 00:24:01.406] [modloading-worker-15/INFO] [PluginManager/]: Constructed class IndustrialForegoingResourcePlugin for plugin resources for mod titanium
+[14Sep2021 00:24:01.432] [modloading-worker-15/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[14Sep2021 00:24:01.435] [modloading-worker-15/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class IndustrialForegoingResourcePlugin
+[14Sep2021 00:24:01.518] [modloading-worker-9/INFO] [net.bdew.lib.BdLib$/]: Initialized multiblock manager for advgenerators
+[14Sep2021 00:24:01.585] [modloading-worker-15/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[14Sep2021 00:24:01.639] [modloading-worker-9/INFO] [net.bdew.lib.network.NetChannel/]: Initialized network channel 'generators' for mod 'advgenerators'
+[14Sep2021 00:24:05.085] [main/INFO] [Dark Utilities/]: Registered 45 Block entries in 1.18ms.
+[14Sep2021 00:24:12.542] [main/INFO] [Dark Utilities/]: Registered 53 Item entries in 0.89ms.
+[14Sep2021 00:24:12.880] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 233 ms
+[14Sep2021 00:24:13.457] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:126]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/melee_damage.json, path: /data/bloodmagic/anointment/melee_damage.json
+[14Sep2021 00:24:13.468] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:126]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/holy_water.json, path: /data/bloodmagic/anointment/holy_water.json
+[14Sep2021 00:24:13.469] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:126]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/hidden_knowledge.json, path: /data/bloodmagic/anointment/hidden_knowledge.json
+[14Sep2021 00:24:13.470] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:126]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/quick_draw.json, path: /data/bloodmagic/anointment/quick_draw.json
+[14Sep2021 00:24:13.471] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:126]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/bow_power.json, path: /data/bloodmagic/anointment/bow_power.json
+[14Sep2021 00:24:13.471] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:126]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/bow_velocity.json, path: /data/bloodmagic/anointment/bow_velocity.json
+[14Sep2021 00:24:13.476] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/arrow_protect.json, path: /data/bloodmagic/living_armor/arrow_protect.json
+[14Sep2021 00:24:13.485] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/fall_protect.json, path: /data/bloodmagic/living_armor/fall_protect.json
+[14Sep2021 00:24:13.486] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/physical_protect.json, path: /data/bloodmagic/living_armor/physical_protect.json
+[14Sep2021 00:24:13.488] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/jump.json, path: /data/bloodmagic/living_armor/jump.json
+[14Sep2021 00:24:13.489] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/health.json, path: /data/bloodmagic/living_armor/health.json
+[14Sep2021 00:24:13.490] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/experienced.json, path: /data/bloodmagic/living_armor/experienced.json
+[14Sep2021 00:24:13.491] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/sprint_attack.json, path: /data/bloodmagic/living_armor/sprint_attack.json
+[14Sep2021 00:24:13.493] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/self_sacrifice.json, path: /data/bloodmagic/living_armor/self_sacrifice.json
+[14Sep2021 00:24:13.494] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/speed.json, path: /data/bloodmagic/living_armor/speed.json
+[14Sep2021 00:24:13.495] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/poison_resist.json, path: /data/bloodmagic/living_armor/poison_resist.json
+[14Sep2021 00:24:13.497] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/fire_resist.json, path: /data/bloodmagic/living_armor/fire_resist.json
+[14Sep2021 00:24:13.498] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/digging.json, path: /data/bloodmagic/living_armor/digging.json
+[14Sep2021 00:24:13.500] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/knockback_resist.json, path: /data/bloodmagic/living_armor/knockback_resist.json
+[14Sep2021 00:24:13.501] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:181]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/downgrade/quenched.json, path: /data/bloodmagic/living_armor/downgrade/quenched.json
+[14Sep2021 00:24:13.529] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `white_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.529] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `orange_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.529] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.529] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.530] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.530] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `lime_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.530] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `pink_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.531] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `gray_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.531] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.531] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.531] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `purple_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.532] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `blue_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.532] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `brown_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.532] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `green_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.532] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `red_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.532] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `black_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.534] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `oak_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.534] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `spruce_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.535] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `birch_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.535] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `jungle_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.535] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `acacia_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.535] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `dark_oak_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.535] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `crimson_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.536] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `warped_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.536] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `cherry_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.536] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `umbran_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.536] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `fir_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.536] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `dead_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.537] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `magic_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.538] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `palm_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.538] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `redwood_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.538] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `willow_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.538] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `hellbark_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.539] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `jacaranda_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.539] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `biomesoplenty` for name `mahogany_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.539] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `botania` for name `livingwood_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.539] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `botania` for name `mossy_livingwood_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.539] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `botania` for name `dreamwood_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.540] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `botania` for name `mossy_dreamwood_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.540] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `botania` for name `shimmerwood_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.552] [main/INFO] [Bookshelf/]: Registered 11 GlobalLootModifierSerializer entries in 0.2ms.
+[14Sep2021 00:24:13.608] [main/INFO] [Dark Utilities/]: Registered 2 TileEntityType entries in 0.08ms.
+[14Sep2021 00:24:13.710] [main/INFO] [wayoftime.bloodmagic.BloodMagic/]: Attempting to register Tile Entities
+[14Sep2021 00:24:13.907] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `integrateddynamics` for name `menril_resin`, expected `integratedterminalscompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.907] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `integrateddynamics` for name `menril_resin_flowing`, expected `integratedterminalscompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.907] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `integrateddynamics` for name `liquid_chorus`, expected `integratedterminalscompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.908] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `integrateddynamics` for name `liquid_chorus_flowing`, expected `integratedterminalscompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.913] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:13.913] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[14Sep2021 00:24:14.250] [main/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.client.particle.ModParticles:registerParticles:23]: Rendering particles
+[14Sep2021 00:24:14.269] [main/INFO] [Bookshelf/]: Registered 22 ingredient serializers.
+[14Sep2021 00:24:14.269] [main/INFO] [Bookshelf/]: Registered 5 IRecipeSerializer entries in 0.1ms.
+[14Sep2021 00:24:14.883] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityHippogryph from class com.github.alexthe666.iceandfire.entity.EntityPixie
+[14Sep2021 00:24:14.888] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDreadThrall from class com.github.alexthe666.iceandfire.entity.EntityDreadKnight
+[14Sep2021 00:24:15.089] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class ImmersiveEngineeringPlugin
+[14Sep2021 00:24:15.089] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class FTBChunksPlugin
+[14Sep2021 00:24:15.090] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class AstralSorceryPlugin
+[14Sep2021 00:24:15.090] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
+[14Sep2021 00:24:15.092] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class ImmersiveEngineeringPlugin
+[14Sep2021 00:24:15.092] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class FTBChunksPlugin
+[14Sep2021 00:24:15.092] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class AstralSorceryPlugin
+[14Sep2021 00:24:15.093] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
+[14Sep2021 00:24:15.095] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class ImmersiveEngineeringPlugin
+[14Sep2021 00:24:15.095] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class FTBChunksPlugin
+[14Sep2021 00:24:15.095] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class AstralSorceryPlugin
+[14Sep2021 00:24:15.095] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
+[14Sep2021 00:24:15.097] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class ImmersiveEngineeringPlugin
+[14Sep2021 00:24:15.097] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class FTBChunksPlugin
+[14Sep2021 00:24:15.098] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class AstralSorceryPlugin
+[14Sep2021 00:24:15.098] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
+[14Sep2021 00:24:15.100] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class ImmersiveEngineeringPlugin
+[14Sep2021 00:24:15.100] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class FTBChunksPlugin
+[14Sep2021 00:24:15.100] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class AstralSorceryPlugin
+[14Sep2021 00:24:15.101] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
+[14Sep2021 00:24:15.118] [main/INFO] [FluxNetworks/]: BLACKLIST RELOADED
+[14Sep2021 00:24:15.118] [main/INFO] [FluxNetworks/]: COMMON CONFIG LOADED
+[14Sep2021 00:24:15.120] [Thread-0/INFO] [FluxNetworks/]: BLACKLIST RELOADED
+[14Sep2021 00:24:15.121] [Thread-0/INFO] [FluxNetworks/]: COMMON CONFIG LOADED
+[14Sep2021 00:24:15.131] [modloading-worker-15/INFO] [Bookshelf/]: Registering 3 command argument types.
+[14Sep2021 00:24:15.131] [modloading-worker-15/INFO] [Bookshelf/]: Registering 13 loot conditions.
+[14Sep2021 00:24:15.144] [modloading-worker-4/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
+[14Sep2021 00:24:15.146] [modloading-worker-10/INFO] [PluginManager/]: Executing phase COMMON_SETUP for plugin class ImmersiveEngineeringPlugin
+[14Sep2021 00:24:15.148] [modloading-worker-10/INFO] [PluginManager/]: Executing phase COMMON_SETUP for plugin class FTBChunksPlugin
+[14Sep2021 00:24:15.150] [modloading-worker-10/INFO] [PluginManager/]: Executing phase COMMON_SETUP for plugin class AstralSorceryPlugin
+[14Sep2021 00:24:15.150] [modloading-worker-13/INFO] [Mekanism/]: Loaded 'Mekanism: Additions' module.
+[14Sep2021 00:24:15.151] [modloading-worker-10/INFO] [PluginManager/]: Executing phase COMMON_SETUP for plugin class CuriosPlugin
+[14Sep2021 00:24:15.155] [modloading-worker-8/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for doggytalents:dog, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.169] [modloading-worker-11/INFO] [integrateddynamics/]: Registered packet handler.
+[14Sep2021 00:24:15.192] [modloading-worker-2/INFO] [Mekanism/]: Loaded 'Mekanism: Tools' module.
+[14Sep2021 00:24:15.225] [modloading-worker-13/INFO] [mcjtylib/]: XNet Detected RFTools Control: enabling support
+[14Sep2021 00:24:15.225] [modloading-worker-10/INFO] [mcjtylib/]: RFTools Storage Detected XNet: enabling support
+[14Sep2021 00:24:15.267] [modloading-worker-11/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.common.capability.ManaCapability:register:62]: Finished Registering ManaCapability
+[14Sep2021 00:24:15.268] [modloading-worker-11/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.api.familiar.FamiliarCap:register:97]: Finished Registering FamiliarCap
+[14Sep2021 00:24:15.269] [modloading-worker-2/INFO] [Mekanism/]: Version 10.0.21 initializing...
+[14Sep2021 00:24:15.277] [modloading-worker-11/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.common.network.Networking:registerMessages:27]: Registering packets!!
+[14Sep2021 00:24:15.284] [modloading-worker-8/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:anvil_pet_entity, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.286] [modloading-worker-8/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bed_pet_entity, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.286] [modloading-worker-8/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bill_gates_entity, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.286] [modloading-worker-8/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:satya_nadella_entity, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.289] [modloading-worker-8/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:steve_ballmer_entity, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.292] [modloading-worker-8/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:siamese_entity, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.292] [modloading-worker-8/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_blaze_entity, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.295] [modloading-worker-8/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_enderman_entity, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.312] [modloading-worker-1/INFO] [AE2:C/]: Post Initialization ( started )
+[14Sep2021 00:24:15.327] [modloading-worker-1/INFO] [AE2:C/]: Post Initialization ( ended after 22ms )
+[14Sep2021 00:24:15.333] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[14Sep2021 00:24:15.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[14Sep2021 00:24:15.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.11.9 Target: null
+[14Sep2021 00:24:15.355] [modloading-worker-1/INFO] [integrateddynamicscompat/]: Registered packet handler.
+[14Sep2021 00:24:15.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [integratedterminals] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/integrated-terminals.json
+[14Sep2021 00:24:15.363] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[14Sep2021 00:24:15.365] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[14Sep2021 00:24:15.366] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[14Sep2021 00:24:15.366] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[14Sep2021 00:24:15.366] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[14Sep2021 00:24:15.367] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[14Sep2021 00:24:15.369] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[14Sep2021 00:24:15.369] [modloading-worker-2/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[14Sep2021 00:24:15.370] [modloading-worker-2/INFO] [Mekanism/]: Loading complete.
+[14Sep2021 00:24:15.370] [modloading-worker-2/INFO] [Mekanism/]: Mod loaded.
+[14Sep2021 00:24:15.370] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[14Sep2021 00:24:15.371] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[14Sep2021 00:24:15.372] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[14Sep2021 00:24:15.372] [modloading-worker-13/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[14Sep2021 00:24:15.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [integratedterminals] Found status: UP_TO_DATE Current: 1.2.4 Target: null
+[14Sep2021 00:24:15.378] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://raw.githubusercontent.com/percivalalb/DoggyTalents/1.16.x/version.json
+[14Sep2021 00:24:15.397] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 2.1.0.0 Target: 2.0.1.10
+[14Sep2021 00:24:15.397] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.16.5
+[14Sep2021 00:24:15.416] [modloading-worker-9/INFO] [integrateddynamics/]: Registered packet handler.
+[14Sep2021 00:24:15.443] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mekanismadditions:baby_creeper, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.443] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mekanismadditions:baby_enderman, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.445] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mekanismadditions:baby_skeleton, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.445] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mekanismadditions:baby_stray, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.446] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mekanismadditions:baby_wither_skeleton, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.451] [main/INFO] [journeymap/]: Initializing Packet Registries
+[14Sep2021 00:24:15.584] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mekanism:robit, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.615] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:nautilus, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.616] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:pike, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.616] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:lionfish, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.616] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:perch, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.617] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:thrasher, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.617] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:great_thrasher, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.618] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:flare, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.618] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:ululu, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.618] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:goose, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.619] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:glow_squid, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.620] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:box_jellyfish, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.620] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:cassiopea_jellyfish, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.620] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for upgrade_aquatic:immortal_jellyfish, use EntityAttributeCreationEvent instead.
+[14Sep2021 00:24:15.632] [AstralSorcery Patreon Effect Loader/WARN] [Astral Sorcery/]: Skipped 1 patreon effects during loading due to malformed data!
+[14Sep2021 00:24:15.633] [AstralSorcery Patreon Effect Loader/INFO] [Astral Sorcery/]: Patreon effect loading finished.
+[14Sep2021 00:24:15.739] [modloading-worker-10/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[14Sep2021 00:24:15.739] [modloading-worker-10/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[14Sep2021 00:24:15.757] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 7.0.0.24 Target: 7.0.0.24
+[14Sep2021 00:24:15.757] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rangedpumps] Starting version check at https://refinedmods.com/ranged-pumps/update.json
+[14Sep2021 00:24:15.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rangedpumps] Found status: BETA Current: 0.8.2 Target: null
+[14Sep2021 00:24:15.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.16.5
+[14Sep2021 00:24:16.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 10.2.27 Target: 10.2.27
+[14Sep2021 00:24:16.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [darkutils] Starting version check at https://updates.blamejared.com/get?n=darkutils&gv=1.16.4
+[14Sep2021 00:24:16.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [darkutils] Found status: BETA Current: 8.0.10 Target: null
+[14Sep2021 00:24:16.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.16.x/update.json
+[14Sep2021 00:24:16.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: BETA Current: NONE Target: null
+[14Sep2021 00:24:16.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedstorage] Starting version check at https://refinedmods.com/refined-storage/update.json
+[14Sep2021 00:24:16.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedstorage] Found status: UP_TO_DATE Current: 1.9.15 Target: null
+[14Sep2021 00:24:16.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commoncapabilities] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/common-capabilities.json
+[14Sep2021 00:24:16.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commoncapabilities] Found status: UP_TO_DATE Current: 2.7.0 Target: null
+[14Sep2021 00:24:16.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [integratedtunnels] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/integrated-tunnels.json
+[14Sep2021 00:24:16.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [integratedtunnels] Found status: UP_TO_DATE Current: 1.8.6 Target: null
+[14Sep2021 00:24:16.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [runelic] Starting version check at https://updates.blamejared.com/get?n=runelic&gv=1.16.5
+[14Sep2021 00:24:16.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [runelic] Found status: BETA Current: 7.0.2 Target: 7.0.2
+[14Sep2021 00:24:16.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [codechickenlib] Starting version check at https://version-check.covers1624.net/check/?mod=CodeChickenLib&mc=1.16.5
+[14Sep2021 00:24:17.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [codechickenlib] Found status: UP_TO_DATE Current: 4.0.3.434 Target: null
+[14Sep2021 00:24:17.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclic] Starting version check at https://raw.githubusercontent.com/Lothrazar/cyclic/trunk/1.16/update.json
+[14Sep2021 00:24:17.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclic] Found status: AHEAD Current: 1.16.5-1.3.8 Target: null
+[14Sep2021 00:24:17.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.16.5
+[14Sep2021 00:24:17.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 6.0.0.25 Target: 6.0.0.25
+[14Sep2021 00:24:17.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enderstorage] Starting version check at https://version-check.covers1624.net/check/?mod=EnderStorage&mc=1.16.5
+[14Sep2021 00:24:17.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enderstorage] Found status: UP_TO_DATE Current: 2.8.0.168 Target: null
+[14Sep2021 00:24:17.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Sep2021 00:24:17.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.4 Target: null
+[14Sep2021 00:24:17.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [brandonscore] Starting version check at https://version-check.covers1624.net/check/?mod=BrandonsCore&mc=1.16.5
+[14Sep2021 00:24:18.092] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.FileNotFoundException: https://version-check.covers1624.net/check/?mod=BrandonsCore&mc=1.16.5
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1974) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1969) ~[?:?]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1968) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1536) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:171) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:139) [forge:?]
+Caused by: java.io.FileNotFoundException: https://version-check.covers1624.net/check/?mod=BrandonsCore&mc=1.16.5
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1920) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520) ~[?:?]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:155) ~[forge:?]
+	... 3 more
+[14Sep2021 00:24:18.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [integratedcrafting] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/integrated-crafting.json
+[14Sep2021 00:24:18.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [integratedcrafting] Found status: UP_TO_DATE Current: 1.0.17 Target: null
+[14Sep2021 00:24:18.112] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/master/cofh_core/update.json
+[14Sep2021 00:24:18.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: UP_TO_DATE Current: 1.3.1 Target: null
+[14Sep2021 00:24:18.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Starting version check at https://raw.github.com/cofh/version/master/thermal/update.json
+[14Sep2021 00:24:18.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Found status: UP_TO_DATE Current: 1.3.2 Target: null
+[14Sep2021 00:24:18.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mousetweaks] Starting version check at http://play.sourceruns.org/yalter/MouseTweaks/update.json
+[14Sep2021 00:24:19.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mousetweaks] Found status: BETA Current: 2.14 Target: null
+[14Sep2021 00:24:19.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16/changelog.json
+[14Sep2021 00:24:19.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: BETA Current: 1.16.5-5.0.3-138 Target: null
+[14Sep2021 00:24:19.128] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[14Sep2021 00:24:19.212] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 7.0.1.15 Target: null
+[14Sep2021 00:24:19.212] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [integrateddynamics] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/integrated-dynamics.json
+[14Sep2021 00:24:19.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [integrateddynamics] Found status: UP_TO_DATE Current: 1.9.4 Target: null
+[14Sep2021 00:24:22.932] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Sep2021 00:24:23.319] [main/INFO] [Bookshelf/]: Registering 1 commands.
+[14Sep2021 00:24:23.433] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, duration] and [cofh, ignite, targets] with inputs: [0, -123, 123]
+[14Sep2021 00:24:23.434] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, targets] and [cofh, ignite, duration] with inputs: [0123]
+[14Sep2021 00:24:23.434] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invis, flag] and [cofh, invis, targets] with inputs: [true, false]
+[14Sep2021 00:24:23.435] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invuln, flag] and [cofh, invuln, targets] with inputs: [true, false]
+[14Sep2021 00:24:23.441] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [ftbteams, info, server_id] and [ftbteams, info, team] with inputs: [server_id]
+[14Sep2021 00:24:23.451] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Sep2021 00:24:23.452] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14Sep2021 00:24:23.453] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14Sep2021 00:24:23.454] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Sep2021 00:24:23.455] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14Sep2021 00:24:23.457] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tpx, destination] and [tpx, dimension] with inputs: [0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Sep2021 00:24:23.458] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tpx, destination] and [tpx, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Sep2021 00:24:23.460] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tpx, targets] and [tpx, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Sep2021 00:24:23.461] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tpx, targets] and [tpx, dimension] with inputs: [0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Sep2021 00:24:23.461] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tpx, targets, destination] and [tpx, targets, dimension] with inputs: [0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Sep2021 00:24:23.464] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[14Sep2021 00:24:23.466] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[14Sep2021 00:24:23.476] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.4-universal.jar, CyclopsCore-1.16.5-1.11.9.jar, astralsorcery-1.16-1.16.5-1.13.12.jar, ftb-essentials-1605.1.4-build.20.jar, IntegratedTerminals-1.16.5-1.2.4.jar, DoggyTalents-1.16.5-2.1.0.0.jar, Neat 1.7-27.jar, CookingForBlockheads_1.16.5-9.3.4.jar, Controlling-7.0.0.24.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.0.jar, rangedpumps-0.8.2.jar, Bookshelf-Forge-1.16.5-10.2.27.jar, buildinggadgets-1.16.5-3.8.0.jar, DarkUtilities-1.16.5-8.0.10.jar, MekanismGenerators-1.16.5-10.0.21.448.jar, JustEnoughResources-1.16.5-0.12.1.128.jar, twilightforest-1.16.5-4.0.546-universal.jar, refinedstorage-1.9.15.jar, industrial-foregoing-1.16.5-3.2.14.6-14.jar, torchmaster-2.3.8.jar, CommonCapabilities-1.16.5-2.7.0.jar, BiomesOPlenty-1.16.5-13.1.0.477-universal.jar, MekanismAdditions-1.16.5-10.0.21.448.jar, valkyrielib-1.16.5-3.0.9.2.jar, Botania-1.16.5-419.jar, curios-forge-1.16.5-4.0.5.3.jar, Patchouli-1.16.4-53.1.jar, Origins-1.16.5-0.7.3.9-forge.jar, advgenerators-0.10.1.11-mc1.16.5.jar, simplegens-1.16.5-3.0.9.0.jar, IntegratedTunnels-1.16.5-1.8.6.jar, elevatorid-1.16.5-1.7.13.jar, Runelic-1.16.5-7.0.2.jar, MekanismTools-1.16.5-10.0.21.448.jar, architectury-1.22.32-forge.jar, observerlib-1.16.5-1.5.3.jar, cloth-config-4.11.26-forge.jar, FastLeafDecay-v25.jar, CodeChickenLib-1.16.5-4.0.3.434-universal.jar, geckolib-forge-1.16.5-3.0.46.jar, Cyclic-1.16.5-1.3.8.jar, Cucumber-1.16.4-4.1.10.jar, ftb-library-forge-1605.3.3-build.71.jar, ftb-teams-forge-1605.2.2-build.30.jar, jei-1.16.5-7.7.1.121.jar, abnormals_core-1.16.5-3.3.0.jar, Mekanism-1.16.5-10.0.21.448.jar, caelus-forge-1.16.5-2.1.3.1.jar, bdlib-1.17.1.11-mc1.16.5.jar, Waystones_1.16.5-7.6.3.jar, Clumps-6.0.0.25.jar, journeymap-1.16.5-5.7.3.jar, appliedenergistics2-8.4.1.jar, NaturesCompass-1.16.5-1.9.1-forge.jar, mcjtylib-1.16-5.0.22.jar, rftoolsbase-1.16-2.0.11.jar, xnet-1.16-3.0.13.jar, rftoolsstorage-1.16-2.0.13.jar, rftoolscontrol-1.16-4.0.11.jar, rftoolsdim-1.16-7.0.14-beta.jar, iceandfire-2.1.9-1.16.5.jar, inventorypets-1.16.5-2.0.15.jar, EnderStorage-1.16.5-2.8.0.168-universal.jar, ars_nouveau-1.16.5-1.23.8.jar, rftoolspower-1.16-3.0.9.jar, ftb-chunks-forge-1605.3.1-build.50.jar, BloodMagic-1.16.4-3.1.3-18.jar, BrandonsCore-1.16.5-3.0.10.237-universal.jar, Draconic-Evolution-1.16.5-3.0.15.415-universal.jar, MysticalAgriculture-1.16.5-4.2.2.jar, MysticalAgradditions-1.16.5-4.2.1.jar, ironchest-1.16.5-11.2.13.jar, IntegratedCrafting-1.16.5-1.0.17.jar, upgrade_aquatic-1.16.5-3.1.0.jar, cofh_core-1.16.5-1.3.1.jar, thermal_foundation-1.16.5-1.3.2.jar, thermal_innovation-1.16.5-1.3.0.jar, thermal_expansion-1.16.5-1.3.0.jar, thermal_locomotion-1.16.5-1.3.0.jar, TConstruct-1.16.5-3.1.2.265.jar, rftoolsutility-1.16-3.1.2.jar, MouseTweaks-2.14-mc1.16.2.jar, titanium-1.16.5-3.2.8.4-10.jar, ImmersiveEngineering-1.16.5-5.0.3-138.jar, rftoolsbuilder-1.16-3.1.2.jar, jeiintegration_1.16.5-7.0.1.15.jar, Mantle-1.16.5-1.6.123.jar, IntegratedDynamics-1.16.5-1.9.4.jar, integratednbt-1.16.4-1.4.2.jar, thermal_cultivation-1.16.5-1.3.0.jar, AutoRegLib-1.6-49.jar, AkashicTome-1.4-16.jar, StorageDrawers-1.16.3-8.3.0.jar, FluxNetworks-1.16.5-6.1.7.12.jar, Aquaculture-1.16.5-2.1.21.jar, chiselsandbits-0.3.4-RELEASE.jar
+[14Sep2021 00:24:25.005] [Worker-Main-13/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Loot Modification Manager has loaded 0 sets of modifiers
+[14Sep2021 00:24:25.191] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tetrahedrite as it's serializer returned null
+[14Sep2021 00:24:25.212] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tungsten_ingot as it's serializer returned null
+[14Sep2021 00:24:25.217] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/peridot as it's serializer returned null
+[14Sep2021 00:24:25.345] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorium as it's serializer returned null
+[14Sep2021 00:24:25.345] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorite as it's serializer returned null
+[14Sep2021 00:24:25.361] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/platinum as it's serializer returned null
+[14Sep2021 00:24:25.419] [Worker-Main-13/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe mysticalagriculture:essence/quark/marble
+com.google.gson.JsonSyntaxException: Unknown item 'quark:marble'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at com.blakebr0.cucumber.crafting.recipe.ShapedNoMirrorRecipe$Serializer.read(ShapedNoMirrorRecipe.java:70) ~[cucumber:4.1.10]
+	at com.blakebr0.cucumber.crafting.recipe.ShapedNoMirrorRecipe$Serializer.func_199425_a_(ShapedNoMirrorRecipe.java:62) ~[cucumber:4.1.10]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) [?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[14Sep2021 00:24:25.428] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/ardite as it's serializer returned null
+[14Sep2021 00:24:25.436] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bauxite as it's serializer returned null
+[14Sep2021 00:24:25.450] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/platinum_ingot as it's serializer returned null
+[14Sep2021 00:24:25.464] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/graphite_ingot as it's serializer returned null
+[14Sep2021 00:24:25.465] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/arcane as it's serializer returned null
+[14Sep2021 00:24:25.482] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_fluid/oil as it's serializer returned null
+[14Sep2021 00:24:25.506] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bitumen as it's serializer returned null
+[14Sep2021 00:24:25.531] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/mithril_ingot as it's serializer returned null
+[14Sep2021 00:24:25.535] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/galena as it's serializer returned null
+[14Sep2021 00:24:25.535] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tungsten as it's serializer returned null
+[14Sep2021 00:24:25.546] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/iridium_ingot as it's serializer returned null
+[14Sep2021 00:24:25.548] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/zinc_ingot as it's serializer returned null
+[14Sep2021 00:24:25.549] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/iridium as it's serializer returned null
+[14Sep2021 00:24:25.577] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/chrome_ingot as it's serializer returned null
+[14Sep2021 00:24:25.578] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/pyrite as it's serializer returned null
+[14Sep2021 00:24:25.589] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sheldonite as it's serializer returned null
+[14Sep2021 00:24:25.642] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/brass_ingot as it's serializer returned null
+[14Sep2021 00:24:25.663] [Worker-Main-13/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe mysticalagriculture:essence/chisel/marble
+com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at com.blakebr0.cucumber.crafting.recipe.ShapedNoMirrorRecipe$Serializer.read(ShapedNoMirrorRecipe.java:70) ~[cucumber:4.1.10]
+	at com.blakebr0.cucumber.crafting.recipe.ShapedNoMirrorRecipe$Serializer.func_199425_a_(ShapedNoMirrorRecipe.java:62) ~[cucumber:4.1.10]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) [?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[14Sep2021 00:24:25.670] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sodalite as it's serializer returned null
+[14Sep2021 00:24:25.676] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/titanium_ingot as it's serializer returned null
+[14Sep2021 00:24:25.689] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/rubber as it's serializer returned null
+[14Sep2021 00:24:25.725] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 131 recipes
+[14Sep2021 00:24:25.811] [Worker-Main-13/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Advancement Modification Manager has loaded 8 sets of modifiers
+[14Sep2021 00:24:26.887] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[14Sep2021 00:24:26.980] [Worker-Main-13/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement twilightforest:alt/compat/tconstruct: Unknown item id 'tconstruct:book'
+[14Sep2021 00:24:27.036] [Worker-Main-13/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4172 advancements
+[14Sep2021 00:24:27.243] [Worker-Main-13/INFO] [Astral Sorcery/]: Built PerkTree with 417 perks!
+[14Sep2021 00:24:27.254] [Worker-Main-13/INFO] [io.github.apace100.origins.Origins/]: Finished loading powers from data files. Registry contains 68 powers.
+[14Sep2021 00:24:27.257] [Worker-Main-13/INFO] [io.github.apace100.origins.Origins/]: Finished loading origins from data files. Registry contains 11 origins.
+[14Sep2021 00:24:27.258] [Worker-Main-13/INFO] [io.github.apace100.origins.Origins/]: Trying to read layer file: origins:origin
+[14Sep2021 00:24:27.261] [Worker-Main-13/INFO] [io.github.apace100.origins.Origins/]: Finished loading origin layers from data files. Read 1 layers.
+[14Sep2021 00:24:27.490] [Worker-Main-13/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mattock_nether, missing knowledge for {1 mattock=1.0}
+[14Sep2021 00:24:27.491] [Worker-Main-13/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 198 milliseconds
+[14Sep2021 00:24:27.494] [Worker-Main-13/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 0 ms
+[14Sep2021 00:24:27.502] [Worker-Main-13/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: 33 materials loaded
+[14Sep2021 00:24:27.536] [Worker-Main-13/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 99 stats loaded for 33 materials
+[14Sep2021 00:24:27.631] [Worker-Main-13/INFO] [immersiveengineering/]: Recipes for potions: minecraft:strong_regeneration, minecraft:thick, alexsmobs:long_poison_resistance, minecraft:strong_turtle_master, minecraft:strong_poison, upgrade_aquatic:repellence_long, alexsmobs:knockback_resistance, minecraft:slow_falling, minecraft:fire_resistance, alexsmobs:lava_vision, ars_nouveau:spell_damage, minecraft:long_water_breathing, cyclic:swimspeed, minecraft:water_breathing, ars_nouveau:mana_regen_potion_strong, minecraft:invisibility, minecraft:long_fire_resistance, alexsmobs:soulsteal, upgrade_aquatic:insomnia_strong, alexsmobs:strong_knockback_resistance, minecraft:strong_harming, upgrade_aquatic:vibing_strong, upgrade_aquatic:vibing_long, ars_nouveau:mana_regen_potion_long, minecraft:strong_leaping, minecraft:swiftness, cyclic:strong_haste, minecraft:long_regeneration, minecraft:long_leaping, alexsmobs:speed_iii, minecraft:long_night_vision, minecraft:healing, upgrade_aquatic:vibing, ars_nouveau:spell_damage_strong, alexsmobs:long_lava_vision, minecraft:leaping, minecraft:mundane, minecraft:strong_strength, alexsmobs:strong_soulsteal, minecraft:long_turtle_master, minecraft:poison, minecraft:slowness, minecraft:awkward, ars_nouveau:spell_damage_long, cyclic:stun, minecraft:regeneration, upgrade_aquatic:insomnia, minecraft:turtle_master, minecraft:strong_healing, minecraft:weakness, alexsmobs:bug_pheromones, upgrade_aquatic:repellence, cyclic:haste, upgrade_aquatic:restfulness, alexsmobs:long_soulsteal, minecraft:night_vision, minecraft:water, minecraft:long_slow_falling, minecraft:strong_swiftness, minecraft:long_invisibility, upgrade_aquatic:repellence_strong, alexsmobs:poison_resistance, minecraft:strength, minecraft:long_swiftness, minecraft:long_poison, alexsmobs:clinging, ars_nouveau:mana_regen_potion, minecraft:long_strength, alexsmobs:long_bug_pheromones, minecraft:long_weakness, alexsmobs:long_clinging, minecraft:harming, alexsmobs:long_knockback_resistance, minecraft:long_slowness, upgrade_aquatic:restfulness_strong, minecraft:strong_slowness
+[14Sep2021 00:24:35.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[14Sep2021 00:24:35.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Sep2021 00:24:35.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Sep2021 00:24:35.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Sep2021 00:24:35.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Sep2021 00:24:35.276] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[14Sep2021 00:24:35.492] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[14Sep2021 00:24:35.511] [Server thread/INFO] [FluxNetworks/]: SERVER CONFIG LOADED
+[14Sep2021 00:24:35.569] [Server thread/INFO] [FTB Teams/]: Loaded FTB Teams - 1 known players
+[14Sep2021 00:24:35.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Sep2021 00:24:35.636] [Botania Contributor Fanciness Thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_helper_levels' ASM patch...
+[14Sep2021 00:24:35.639] [Botania Contributor Fanciness Thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_helper_levels' ASM patch!
+[14Sep2021 00:24:35.639] [Botania Contributor Fanciness Thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_helper_enchantments' ASM patch...
+[14Sep2021 00:24:35.641] [Botania Contributor Fanciness Thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_helper_enchantments' ASM patch!
+[14Sep2021 00:24:35.642] [Botania Contributor Fanciness Thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_helper_apply_modifier' ASM patch...
+[14Sep2021 00:24:35.644] [Botania Contributor Fanciness Thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_helper_apply_modifier' ASM patch!
+[14Sep2021 00:24:35.769] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been successfully loaded
+[14Sep2021 00:24:35.769] [Server thread/INFO] [FluxNetworks/]: Loading 0 chunks in minecraft:overworld by 0 flux devices
+[14Sep2021 00:24:35.773] [Server thread/INFO] [FluxNetworks/]: Loading 0 chunks in minecraft:the_nether by 0 flux devices
+[14Sep2021 00:24:35.787] [Server thread/INFO] [FluxNetworks/]: Loading 0 chunks in minecraft:the_end by 0 flux devices
+[14Sep2021 00:24:35.788] [Server thread/INFO] [FluxNetworks/]: Loading 0 chunks in twilightforest:twilightforest by 0 flux devices
+[14Sep2021 00:24:35.791] [Server thread/INFO] [FluxNetworks/]: Loading 0 chunks in twilightforest:skylight_forest by 0 flux devices
+[14Sep2021 00:24:35.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Sep2021 00:24:36.423] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Sep2021 00:24:36.423] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Sep2021 00:24:38.107] [Worker-Main-8/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[14Sep2021 00:24:38.107] [Worker-Main-12/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[14Sep2021 00:24:38.107] [Worker-Main-8/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[14Sep2021 00:24:38.409] [Worker-Main-10/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[14Sep2021 00:24:38.419] [Server thread/ERROR] [net.minecraft.world.gen.feature.structure.Structure/]: Exception loading structure piece with id inventorypets:sky_dungeon
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1134) ~[?:?]
+	at net.minecraft.world.gen.feature.template.TemplateManager.func_200219_b(SourceFile:64) ~[?:?]
+	at net.minecraft.world.gen.feature.template.TemplateManager.func_200220_a(SourceFile:54) ~[?:?]
+	at com.inventorypets.worldgen.SkyDungeonStructure$Piece.<init>(SkyDungeonStructure.java:139) ~[inventorypets:1.16.5-2.0.15]
+	at net.minecraft.world.gen.feature.structure.Structure.func_236393_a_(Structure.java:119) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_235967_a_(ChunkSerializer.java:438) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222656_a(ChunkSerializer.java:170) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_223170_j(ChunkManager.java:480) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213186_a(MinecraftServer.java:469) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:310) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[14Sep2021 00:24:38.445] [Server thread/ERROR] [net.minecraft.world.gen.feature.structure.Structure/]: Exception loading structure piece with id inventorypets:space_dungeon
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1134) ~[?:?]
+	at net.minecraft.world.gen.feature.template.TemplateManager.func_200219_b(SourceFile:64) ~[?:?]
+	at net.minecraft.world.gen.feature.template.TemplateManager.func_200220_a(SourceFile:54) ~[?:?]
+	at com.inventorypets.worldgen.SpaceDungeonStructure$Piece.<init>(SpaceDungeonStructure.java:139) ~[inventorypets:1.16.5-2.0.15]
+	at net.minecraft.world.gen.feature.structure.Structure.func_236393_a_(Structure.java:119) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_235967_a_(ChunkSerializer.java:438) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222656_a(ChunkSerializer.java:170) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_223170_j(ChunkManager.java:480) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213186_a(MinecraftServer.java:469) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:310) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[14Sep2021 00:24:38.801] [Worker-Main-8/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[14Sep2021 00:24:39.297] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[14Sep2021 00:24:39.515] [Worker-Main-9/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[14Sep2021 00:24:39.520] [Worker-Main-9/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[14Sep2021 00:24:39.797] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
+[14Sep2021 00:24:40.194] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4399 ms
+[14Sep2021 00:24:40.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.739s)! For help, type "help"
+[14Sep2021 00:24:40.341] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[14Sep2021 00:24:40.387] [Server thread/INFO] [Astral Sorcery/]: Loaded PerkTree!
+[14Sep2021 00:24:40.388] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[14Sep2021 00:24:40.389] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[14Sep2021 00:24:40.401] [Server thread/INFO] [integrateddynamics/]: Loading infobook /data/integrateddynamics/info/on_the_dynamics_of_integration.xml
+[14Sep2021 00:24:40.442] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet packages: 
+[14Sep2021 00:24:40.451] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: base.json, 38 valid dimlets found
+[14Sep2021 00:24:40.454] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: vanilla_blocks.json, 267 valid dimlets found
+[14Sep2021 00:24:40.454] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: vanilla_fluids.json, 2 valid dimlets found
+[14Sep2021 00:24:40.455] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: vanilla_biomes.json, 79 valid dimlets found
+[14Sep2021 00:24:40.456] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: rftools.json, 10 valid dimlets found
+[14Sep2021 00:24:40.457] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: appliedenergistics2.json, 13 valid dimlets found
+[14Sep2021 00:24:40.457] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: biggerreactors.json, 0 valid dimlets found
+[14Sep2021 00:24:40.458] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: bigreactors.json, 0 valid dimlets found
+[14Sep2021 00:24:40.458] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: botania.json, 121 valid dimlets found
+[14Sep2021 00:24:40.459] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: immersiveengineering.json, 23 valid dimlets found
+[14Sep2021 00:24:40.460] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: mekanism.json, 178 valid dimlets found
+[14Sep2021 00:24:40.461] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: powah.json, 0 valid dimlets found
+[14Sep2021 00:24:40.462] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: quark.json, 0 valid dimlets found
+[14Sep2021 00:24:40.465] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: tconstruct.json, 68 valid dimlets found
+[14Sep2021 00:24:40.465] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: thermal.json, 107 valid dimlets found
+[14Sep2021 00:24:40.467] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: biomesoplenty.json, 148 valid dimlets found
+[14Sep2021 00:24:40.470] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: emendatusenigmatica.json, 0 valid dimlets found
+[14Sep2021 00:24:40.539] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_custom_voxel_collision' ASM patch...
+[14Sep2021 00:24:40.588] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_custom_voxel_collision' ASM patch!
+[14Sep2021 00:24:40.592] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_custom_collision_flag' ASM patch...
+[14Sep2021 00:24:40.595] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_custom_collision_flag' ASM patch!
+[14Sep2021 00:25:03.889] [Netty Server IO #2/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[14Sep2021 00:25:04.415] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Soul_Okamii is 4ddf56b0-5611-4ad3-9777-f609748e8c40
+[14Sep2021 00:25:14.357] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@58aec749
+[14Sep2021 00:25:14.384] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Soul_Okamii[/71.76.196.208:50211] logged in with entity id 307 at (-233.5, 79.0, -154.5)
+[14Sep2021 00:25:14.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul_Okamii joined the game
+[14Sep2021 00:25:14.611] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[14Sep2021 00:25:14.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul_Okamii has made the advancement [Ice and Fire]
+[14Sep2021 00:25:29.732] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Soul_Okamii lost connection: Timed out
+[14Sep2021 00:25:29.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul_Okamii left the game
+[14Sep2021 00:25:58.278] [Netty Server IO #3/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[14Sep2021 00:25:59.164] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Soul_Okamii is 4ddf56b0-5611-4ad3-9777-f609748e8c40
+[14Sep2021 00:26:07.176] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ce0e108
+[14Sep2021 00:26:07.188] [Server thread/ERROR] [com.lothrazar.cyclic.ModCyclic/]: ? overwrite PlayerEvent.LoadFromFile {inv:{Size:36,Items:[]},spectatorTicks:0,flyTicks:0,storage:0b,tasks:[]}
+[14Sep2021 00:26:07.188] [Server thread/ERROR] [com.lothrazar.cyclic.ModCyclic/]: C PlayerEvent.LoadFromFile {inv:{Size:36,Items:[]},spectatorTicks:0,flyTicks:0,storage:0b,tasks:[]}
+[14Sep2021 00:26:07.189] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Soul_Okamii[/71.76.196.208:50220] logged in with entity id 375 at (-233.5, 79.0, -154.5)
+[14Sep2021 00:26:07.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul_Okamii joined the game
+[14Sep2021 00:26:07.235] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[14Sep2021 00:27:02.739] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player  chose Origin: origins:human, for layer: origins:origin
+[14Sep2021 00:35:05.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul_Okamii has made the advancement [Sweet Dreams]
+[14Sep2021 00:38:01.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul_Okamii was slain by Wilden Stalker
+[14Sep2021 00:38:28.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul_Okamii has made the advancement [Alex's Mobs]
+[14Sep2021 00:39:23.581] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Soul_Okamii lost connection: Timed out
+[14Sep2021 00:39:23.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul_Okamii left the game
+[14Sep2021 00:40:01.371] [Netty Server IO #5/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[14Sep2021 00:40:01.898] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Soul_Okamii is 4ddf56b0-5611-4ad3-9777-f609748e8c40
+[14Sep2021 00:40:28.725] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@63022af2
+[14Sep2021 00:40:28.735] [Server thread/ERROR] [com.lothrazar.cyclic.ModCyclic/]: ? overwrite PlayerEvent.LoadFromFile {inv:{Size:36,Items:[]},spectatorTicks:0,flyTicks:0,storage:0b,tasks:[]}
+[14Sep2021 00:40:28.735] [Server thread/ERROR] [com.lothrazar.cyclic.ModCyclic/]: C PlayerEvent.LoadFromFile {inv:{Size:36,Items:[]},spectatorTicks:0,flyTicks:0,storage:0b,tasks:[]}
+[14Sep2021 00:40:28.735] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Soul_Okamii[/71.76.196.208:50312] logged in with entity id 2257 at (-288.69999998807907, 70.0, -138.69999998807907)
+[14Sep2021 00:40:28.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul_Okamii joined the game
+[14Sep2021 00:40:28.768] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[14Sep2021 00:45:26.505] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-295, y=68, z=-158} BlockPos{x=-296, y=67, z=-158}
+[14Sep2021 00:48:32.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[14Sep2021 00:48:32.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Sep2021 00:48:32.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Sep2021 00:48:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Sep2021 00:48:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Sep2021 00:48:33.587] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Sep2021 00:48:33.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Sep2021 00:48:33.589] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Sep2021 00:48:33.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Sep2021 00:48:33.590] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Sep2021 00:48:33.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[14Sep2021 00:48:33.591] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[14Sep2021 00:48:33.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[14Sep2021 00:48:33.593] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[14Sep2021 00:48:33.644] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Sep2021 00:48:33.656] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Sep2021 00:48:33.657] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Sep2021 00:48:33.657] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[14Sep2021 00:48:33.657] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[14Sep2021 00:48:33.661] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded

@@ -1,0 +1,19 @@
+{
+	id: "ff3f57bc-3043-4380-ab7c-6d7ee94b4e54"
+	type: "player"
+	player_name: "Spoopayyy"
+	ranks: {
+		ff3f57bc-3043-4380-ab7c-6d7ee94b4e54: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Spoopayyy"
+		"ftbteams:color": "#59FFDD"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

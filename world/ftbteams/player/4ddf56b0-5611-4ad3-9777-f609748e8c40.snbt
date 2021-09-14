@@ -1,0 +1,19 @@
+{
+	id: "4ddf56b0-5611-4ad3-9777-f609748e8c40"
+	type: "player"
+	player_name: "Soul_Okamii"
+	ranks: {
+		4ddf56b0-5611-4ad3-9777-f609748e8c40: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Soul_Okamii"
+		"ftbteams:color": "#FF5995"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
