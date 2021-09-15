@@ -1,0 +1,19 @@
+{
+	id: "9bc9434a-21a8-42d3-8a80-57f48d59480a"
+	type: "party"
+	owner: "ff3f57bc-3043-4380-ab7c-6d7ee94b4e54"
+	ranks: {
+		ff3f57bc-3043-4380-ab7c-6d7ee94b4e54: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "te-am"
+		"ftbteams:color": "#A759FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1631601179479L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Spoopayyy\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }]
+	extra: { }
+}

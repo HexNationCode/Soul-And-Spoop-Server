@@ -1,0 +1,19 @@
+{
+	id: "f3e7be31-a5b9-4695-aa40-964a9e1dcce4"
+	type: "player"
+	player_name: "Moonpaw12"
+	ranks: {
+		f3e7be31-a5b9-4695-aa40-964a9e1dcce4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Moonpaw12"
+		"ftbteams:color": "#BB59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
